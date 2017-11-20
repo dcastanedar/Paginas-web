@@ -1,0 +1,148 @@
+header{
+    padding-top: 10px;
+    background: #13124F;
+    color: #fff;
+    height: 180px;
+}
+
+h6{
+    font-size: 12px;
+}
+
+hr{
+    height: 5px;
+    background: #9090A5;
+}
+.botonLearn{
+    font-size: 13px;
+    height: 30px;
+    width: 120px;
+    background: #F61067;
+    border: none;
+    color: #fff;    
+}
+
+.Principal p{
+    padding-top:40px;
+    font-size: 11px;
+    margin-bottom: 30px;
+}
+
+.Message{
+    background: #F61067;
+    color: #fff;
+    height: 30px;
+    margin-bottom: 20px;
+}
+
+.Message h6{
+    line-height:30px;
+    font-size: 11px;
+}
+
+.cuerpo{
+    background: #13124F;
+    color: #fff;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 20px;
+}
+
+.cuerpo .inputText{
+    width: 100%;
+    background: #1B1B64;
+    border-left: none;  
+    border-right: none;
+    padding-left: 2%;
+    margin-bottom: 20px;
+    font-size: 12px;
+}
+
+.cuerpo .botonSend{
+    width: 100%;
+    background: #F61067;
+    color: #fff;
+    border: none;
+    margin-bottom: 20px;
+    height: 30px;
+    font-size: 11px;
+}
+
+.Welcome{
+    height: 40px;
+    background: #9090A5;
+    color: #fff;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.Welcome h5{
+    line-height: 40px;
+    font-size: 15px;
+}
+
+.cuerpo p, .cuadro p{
+    font-size: 11px;   
+}
+
+.pie{
+    background: #352BA5;
+    height: 22px;
+    color: #fff;
+}
+
+.pie h6{
+    font-size: 8px;
+}
+
+.cuadro{
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-left: 5%;
+    padding-left: 5%;
+    border-width: 2px;
+    border: 1px solid #9090A5;
+    padding-bottom: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+}
+
+.cuadro p{
+    font-size: 10px;
+}
+.cuadro .parte1{
+    background: #F61067;
+    height: 10px;
+    width: 70%;
+    margin-bottom: 15px;
+    border: none;
+}
+
+.cuadro .parte2{
+    background: #2AD392;
+    height: 10px;
+    width: 24%;
+    margin-bottom: 15px;
+    border: none;
+}
+
+.cuadro .botonCool{
+    background: #F61067;
+    width: 45%;
+    border: 2px solid #F61067;
+    color: #fff;
+    font-size: 11px;
+    height: 25px;
+}
+
+.cuadro .botonLame{
+    background: #fff;
+    padding-left: 0;
+    margin-left: 4%;
+    border: 2px solid #2AD392;
+    width: 45%;
+    color: #2AD392;
+    font-size: 11px;
+    height: 25px;
+}
+
